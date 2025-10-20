@@ -1,4 +1,8 @@
 body {
     background-image: url('https://raw.githubusercontent.com/free-s0up/free-s0up.github.io/refs/heads/main/jellyfish-blue-washi-tape.png');
     background-repeat: repeat;
+    h1 {
+  color: maroon;
+  margin-left: 40px;
+}
 }
